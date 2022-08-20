@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AvichalV
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m @Avichal Vishwakarma
+- 👀 I’m interested in data analysis & Machine Learning
 - 🌱 I’m currently learning python
 <!---
 AvichalV/AvichalV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
