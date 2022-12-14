@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Avichal Vishwakarma
-- 👀 I’m interested in data analysis & Machine Learning
+- 👀 I’m interested in Data Analysis & Machine Learning
 - 🌱 Getting better with python / ML
 - 💼 Open for Work / Hire (avichal.vishwakarma@gmail.com)
